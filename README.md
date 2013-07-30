@@ -1,6 +1,8 @@
 # WebSocket PhoneGap iPhone Plugin
 
-PLEASE NOTE: these are early days - the initial plugin works, but it's not been tested very thoroughly yet - please help me test and make this plugin better.
+**NOTE: this plugin is no longer required as iOS provides native WebSockets to PhoneGap as of iOS v4 - some moons ago, so you don't need this project any more**.
+
+I'm just leaving this here for historical purposes.
 
 ## Usage
 
